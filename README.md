@@ -2,6 +2,10 @@
 
 Using a bearer Token to re-authenticate users to shield access to any route that requires a valid login to access.
 
+## Deployed Server Link
+
+[Render](https://bearer-auth-wamb.onrender.com)
+
 ## UML
 
 ![UML for bearer token](Bearer%20Token%20UML.png)
